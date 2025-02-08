@@ -1,0 +1,193 @@
+Token Name
+Token Ticker
+Written by
+Date
+
+**cite sources throughout (as footnotes or links) for factual statements so report users can verify**
+
+EXECUTIVE SUMMARY
+(1 paragraph introduction + 1 paragraph conclusion + 1 paragraph for each technical key element of the project [examples: consensus, bridges, ecosystem])
+
+Main finding of each of the research axes
+Key data
+Describe the opportunity and risk
+
+
+OVERVIEW
+(1 paragraph + 1 table - 1 page maximum)
+
+
+What problems does it solve? 
+What is the endgame? 
+Who is the team?
+
+Key Metrics
+(Table Format)
+
+Include relevant facts (fact sheet): Blockchain, token generation event date, token URL, distribution overview, market cap, total supply, circulating supply, circulating supply/total supply ratio, YTD range, daily volume, order book depth, beta, percent from all time high, and revenues generated.
+
+Utility
+List the utility the token can be used for. For example: governance, staking (requirements, APR, lock times), revenue sharing, membership, etc.
+
+On-Chain Metrics
+(only eth/erc20/evm compatible tokens). List the top holder wallets and identify the whales, (use nansen). Alternatively copy address and paste into tg/discord to find more infos.
+
+Availability On Exchanges
+Screenshot of CoinGecko and/or CoinMarketCap listing exchanges traded and liquidity. List perpetual futures markets; use coinalyze.net/ as the data source.
+
+Team / Backers
+(2 paragraph maximum)
+
+
+Few sentences about the team and Backers,VC’s, and financially involved people.
+Detailed list and overview of who the people are in an Appendix.
+
+
+FUNDRAISE & INVESTORS
+
+Seed round, private sale, public sale, initial coin offering, and additional rounds.  List all of the rounds and percentage of allocation. Create a table listing the rounds: initial price, current price, and multiple of current price over the price in the round sale (example 5x).
+
+Unlock Dates
+Check the Whitepaper and Messari for the unlock schedule. Attach high resolution graphics with an Imgur link if required. Write down major unlock dates in written text as well (Only the very important ones please). Include a complete unlock table in an Appendix or link to a separate table.
+
+Investors
+List key investors or display a pic of VCs involved. Maximum 1 -2 sentences.
+
+
+ROADMAP & MILESTONES
+
+Key Milestones
+List the key milestones in the upcoming 6 months and give a short description. What will be achieved? How could it impact price/supply? Will there be more demand created?
+
+Adherence
+Has the team delivered on the roadmap so far? Were they always on time? Are the current anticipated milestones on track or are they delayed? (Dig in telegram/discord and search/ask for these questions - this is a super important step - don’t skip!)
+
+
+
+
+
+
+
+
+
+
+COMPETITIVE ANALYSIS
+
+Features & Matrix
+Who are the main competitors? 
+What is a similar product? (2-3 sentences + key differentiators for each)
+
+Include a competitive matrix and score the token features from 1 (not competitive) to 10 (dominates market). Append a table with detail behind each score.
+
+
+Feature A
+Feature B
+Feature C
+Feature D
+Feature E
+Feature F
+Token
+
+
+
+
+
+
+
+
+
+
+
+
+Competitor A
+
+
+
+
+
+
+
+
+
+
+
+
+Competitor B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POTENTIAL CONCERNS & RISKS
+List potential concerns that you have about the project. What would need to happen to make this fail? What are the odds?
+
+
+THESIS / SUMMARY
+Where does the token get its value from? Is the project over or undervalued? What is your opinion on the short (1 month), mid (3-6 months) and long-term (6-12+ months)?
+
+What catalysts do you think will cause the price to change significantly? Where do you see this heading with the current narratives? If there is no narrative yet, what would need to happen to make this pump?
+
+Is this purely speculation-based or will there be a specific event, such as a supply shock or increased demand?
+
+
+FUNDAMENTALS
+(1 page maximum. Provide further details and graphics in an Appendix)
+
+
+Describe the relevant investment information. One paragraph each about:
+Network/token
+The story of token
+Fundamentals
+
+
+NEWS / CATALYSTS AND SOCIAL MEDIA & GROWTH
+
+
+List recent news and its impact. What are the latest and future catalysts that can be expected.
+Mark out an agenda of future anticipated events.
+List relevant social media: twitter name, discord, telegram, medium, etc.
+Review social media growth and compare it in similar fashion to the competition ( socialblade.com provides social media analytics)
+Is there hype? Describe it.
+Why is it performing the way it does?
+How are price moves on news?
+
+
+
+TOOLS FOR MONITORING
+
+Wallet’s that should be added to the DAO wallet tracking application.
+Should any bot channels be created to track the narrative? Which accounts should be followed?
+Should any other alerting systems / scrapers be set up?
+What can be monitored daily? ( examples: $SOL staked supply, $LOOKS emissions, holdings behind $TIME, etc.)
+
+
+Best Practices Checklist
+(Remove from final report)
+
+Don’t just copy-paste facts. Use the facts to describe how it impacts the investment thesis.
+Your opinion is not only relevant in the conclusion. But don’t comment your opinion on everything.
+Draw lines and link up and understand everything that you found out.
+Put hyperlinks in the appendix, referring back to where in the document the reader was reading before jumping to the appendix.
+Consistent Text size / formatting / alignment / spacing.
+Be clean and easy on the eye.
+
+
+SOURCES
+Summary of all links to sources.
+
+
+APPENDIX
+Detailed list and overview of who the team and Backers,VC’s, and financially involved people are.
+A complete unlock table or link to a separate table.
+Table with the detail behind each score in the competitor matrix.
+Further details and graphics for token fundamentals.
